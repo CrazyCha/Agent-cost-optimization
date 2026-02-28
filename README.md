@@ -3,7 +3,7 @@
 ### Prerequisites
 - AWS CLI configured with appropriate permissions
 - Cost Explorer enabled in your AWS account
-- Python 3.8+ installed
+- Python 3.10+ installed
 
 ### Installation & Deployment
 
